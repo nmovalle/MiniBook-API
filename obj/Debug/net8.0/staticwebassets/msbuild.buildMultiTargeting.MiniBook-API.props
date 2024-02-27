@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MiniBook-API.props" />
+</Project>
